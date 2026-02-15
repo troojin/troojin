@@ -4,9 +4,8 @@
 
 <p align="center">
 <sub>~ roblox dev ~ lua ~ c# ~</sub><br>
-<sub>~ currently learning c++ ~ swift ~</sub>
+<sub>~ currently learning c++ and swift</sub>
 </p>
 
 <p align="center">
-🌊 〰️ 〰️ 〰️ 〰️ 〰️ 〰️ 🌊
 </p>
