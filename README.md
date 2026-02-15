@@ -3,9 +3,6 @@
 </h3>
 
 <p align="center">
-<sub>~ roblox dev ~ lua ~ c# ~</sub><br>
-<sub>~ currently learning c++ and swift</sub>
-</p>
-
-<p align="center">
+<strong>main:</strong> luau • lua • c# • html • css<br>
+<strong>learning:</strong> js • json • c++ • swift
 </p>
