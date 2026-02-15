@@ -1,8 +1,12 @@
 <h3 align="center">
-ʜᴇʏ ɪᴍ ᴛʀᴏᴏᴊɪɴ
+ʜᴇʏ ɪᴍ ᴛʀᴏᴏᴊɪɴ 👋
 </h3>
 
 <p align="center">
-ʀᴏʙʟᴏx ᴅᴇᴠ • ʟᴜᴀ • ᴄ#  
-ʟᴇᴀʀɴɪɴɢ ᴄ++ ᴀɴᴅ sᴡɪғᴛ
+<sub>~ roblox dev ~ lua ~ c# ~</sub><br>
+<sub>~ currently learning c++ ~ swift ~</sub>
+</p>
+
+<p align="center">
+🌊 〰️ 〰️ 〰️ 〰️ 〰️ 〰️ 🌊
 </p>
