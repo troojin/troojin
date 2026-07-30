@@ -31,11 +31,3 @@
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=troojin&style=flat-square&color=blue" />
 </p>
-<br />
-<p align="center">
-  wanna play a quick game while you're here?
-  <br /><br />
-  <a href="https://www.miniplay.com/game/google-snake">
-    <img src="https://img.shields.io/badge/🐍_play_snake-2C2D72?style=for-the-badge" />
-  </a>
-</p>
