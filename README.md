@@ -1,7 +1,9 @@
-<h3 align="center">hey, i'm elias or troojin</h3>
-<p align="center">
-  i build things for fun
-</p>
+<h1 align="center">
+  <a href="https://github.com/troojin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey%2C+i'm+elias+or+troojin;i+build+things+for+fun" alt="Typing SVG" />
+  </a>
+</h1>
+
 <br />
 <p align="center">
   <strong>languages</strong><br />
