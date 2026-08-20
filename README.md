@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey%2C+i'm+elias+or+troojin;i+build+things+for+fun" alt="Typing SVG" />
   </a>
 </h1>
-
 <br />
 <p align="center">
   <strong>languages</strong><br />
@@ -26,6 +25,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+</p>
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=troojin&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 <br />
 <p align="center">
